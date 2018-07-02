@@ -1,0 +1,2018 @@
+fileFormatVersion: 2
+guid: da8f694ecac6747c68e61d1bb590fc41
+timeCreated: 1466096743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bats_0
+    21300002: bats_1
+    21300004: bats_2
+    21300006: bats_3
+    21300008: bats_4
+    21300010: bats_5
+    21300012: bats_6
+    21300014: bats_7
+    21300016: bats_8
+    21300018: bats_9
+    21300020: bats_10
+    21300022: bats_11
+    21300024: bats_12
+    21300026: bats_13
+    21300028: bats_14
+    21300030: bats_15
+    21300032: bats_16
+    21300034: bats_17
+    21300036: bats_18
+    21300038: bats_19
+    21300040: bats_20
+    21300042: bats_21
+    21300044: bats_22
+    21300046: bats_23
+    21300048: bats_24
+    21300050: bats_25
+    21300052: bats_26
+    21300054: bats_27
+    21300056: bats_28
+    21300058: bats_29
+    21300060: bats_30
+    21300062: bats_31
+    21300064: bats_32
+    21300066: bats_33
+    21300068: bats_34
+    21300070: bats_35
+    21300072: bats_36
+    21300074: bats_37
+    21300076: bats_38
+    21300078: bats_39
+    21300080: bats_40
+    21300082: bats_41
+    21300084: bats_42
+    21300086: bats_43
+    21300088: bats_44
+    21300090: bats_45
+    21300092: bats_46
+    21300094: bats_47
+    21300096: bats_48
+    21300098: bats_49
+    21300100: bats_50
+    21300102: bats_51
+    21300104: bats_52
+    21300106: bats_53
+    21300108: bats_54
+    21300110: bats_55
+    21300112: bats_56
+    21300114: bats_57
+    21300116: bats_58
+    21300118: bats_59
+    21300120: bats_60
+    21300122: bats_61
+    21300124: bats_62
+    21300126: bats_63
+    21300128: bats_64
+    21300130: bats_65
+    21300132: bats_66
+    21300134: bats_67
+    21300136: bats_68
+    21300138: bats_69
+    21300140: bats_70
+    21300142: bats_71
+    21300144: bats_72
+    21300146: bats_73
+    21300148: bats_74
+    21300150: bats_75
+    21300152: bats_76
+    21300154: bats_77
+    21300156: bats_78
+    21300158: bats_79
+    21300160: bats_80
+    21300162: bats_81
+    21300164: bats_82
+    21300166: bats_83
+    21300168: bats_84
+    21300170: bats_85
+    21300172: bats_86
+    21300174: bats_87
+    21300176: bats_88
+    21300178: bats_89
+    21300180: bats_90
+    21300182: bats_91
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bats_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 661
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 47}
+        - {x: -59.5, y: 17}
+        - {x: -59.5, y: -37}
+        - {x: -28.5, y: -47}
+        - {x: 46.5, y: -47}
+        - {x: 59.5, y: -26}
+        - {x: 59.5, y: 23}
+        - {x: 35.5, y: 47}
+    - name: bats_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 655
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 51}
+        - {x: -40, y: 51}
+        - {x: -49, y: 4}
+        - {x: -49, y: -51}
+        - {x: 7, y: -51}
+        - {x: 31, y: -47}
+        - {x: 48, y: -23}
+        - {x: 49, y: -17}
+        - {x: 49, y: 9}
+    - name: bats_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 662
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -6}
+        - {x: -29, y: -43}
+        - {x: 51, y: -43}
+        - {x: 64, y: -37}
+        - {x: 64, y: 7}
+        - {x: 56, y: 24}
+        - {x: 36, y: 43}
+        - {x: -35, y: 43}
+        - {x: -64, y: 31}
+    - name: bats_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 653
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 48}
+        - {x: -23.5, y: 48}
+        - {x: -32.5, y: 37}
+        - {x: -59.5, y: -23}
+        - {x: -59.5, y: -48}
+        - {x: 13.5, y: -48}
+        - {x: 59.5, y: -36}
+        - {x: 59.5, y: 3}
+        - {x: 48.5, y: 28}
+    - name: bats_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 660
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 40}
+        - {x: -56.5, y: 15}
+        - {x: -56.5, y: -38}
+        - {x: -55.5, y: -40}
+        - {x: 39.5, y: -40}
+        - {x: 56.5, y: -31}
+        - {x: 56.5, y: 20}
+        - {x: 45.5, y: 40}
+    - name: bats_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 640
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 49.5}
+        - {x: -41.5, y: -46.5}
+        - {x: -40.5, y: -49.5}
+        - {x: 1.5, y: -49.5}
+        - {x: 41.5, y: -22.5}
+        - {x: 41.5, y: 43.5}
+        - {x: 36.5, y: 49.5}
+    - name: bats_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 619
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 612
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 604
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 612
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 565
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 18.5}
+        - {x: -41, y: 6.5}
+        - {x: -41, y: -27.5}
+        - {x: 33, y: -27.5}
+        - {x: 33, y: -19.5}
+        - {x: 7, y: 18.5}
+      - - {x: -31, y: 27.5}
+        - {x: -41, y: 21.5}
+        - {x: -41, y: 16.5}
+        - {x: 37, y: -27.5}
+        - {x: 41, y: -27.5}
+        - {x: 41, y: -2.5}
+        - {x: 8, y: 27.5}
+    - name: bats_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 559
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 22}
+        - {x: -42.5, y: 15}
+        - {x: -42.5, y: -31}
+        - {x: 33.5, y: -31}
+        - {x: 33.5, y: -24}
+        - {x: 32.5, y: -18}
+        - {x: 7.5, y: 16}
+        - {x: -9.5, y: 22}
+      - - {x: -0.5, y: 31}
+        - {x: -42.5, y: 31}
+        - {x: -42.5, y: 20}
+        - {x: -38.5, y: 14}
+        - {x: 36.5, y: -31}
+        - {x: 42.5, y: -31}
+        - {x: 42.5, y: -17}
+        - {x: 29.5, y: 9}
+    - name: bats_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 541
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -37.5}
+        - {x: -9.5, y: -35.5}
+        - {x: -12.5, y: -34.5}
+        - {x: -14.5, y: -37.5}
+      - - {x: 33.5, y: -37.5}
+        - {x: 36.5, y: -36.5}
+        - {x: 36.5, y: -33.5}
+        - {x: 33.5, y: -32.5}
+        - {x: 31.5, y: -34.5}
+      - - {x: 13.5, y: 37.5}
+        - {x: -9.5, y: 37.5}
+        - {x: -48.5, y: 7.5}
+        - {x: -48.5, y: -28.5}
+        - {x: -21.5, y: -35.5}
+        - {x: 21.5, y: -35.5}
+        - {x: 33.5, y: -32.5}
+        - {x: 48.5, y: -17.5}
+        - {x: 48.5, y: 3.5}
+        - {x: 43.5, y: 14.5}
+      - - {x: -48.5, y: -34.5}
+        - {x: -32.5, y: -34.5}
+        - {x: -31.5, y: -31.5}
+        - {x: -32.5, y: -28.5}
+        - {x: -42.5, y: -28.5}
+        - {x: -48.5, y: -29.5}
+      - - {x: -41.5, y: 17.5}
+        - {x: -48.5, y: 10.5}
+        - {x: -48.5, y: 4.5}
+        - {x: -46.5, y: 4.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -38.5, y: 16.5}
+      - - {x: 43.5, y: 19.5}
+        - {x: 42.5, y: 16.5}
+        - {x: 47.5, y: 11.5}
+        - {x: 48.5, y: 11.5}
+        - {x: 48.5, y: 16.5}
+        - {x: 45.5, y: 19.5}
+      - - {x: -22.5, y: 37.5}
+        - {x: -29.5, y: 30.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -16.5, y: 35.5}
+        - {x: -16.5, y: 37.5}
+      - - {x: 21.5, y: 37.5}
+        - {x: 22.5, y: 34.5}
+        - {x: 30.5, y: 29.5}
+        - {x: 33.5, y: 30.5}
+        - {x: 33.5, y: 32.5}
+        - {x: 27.5, y: 37.5}
+    - name: bats_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 608
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 538
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 40}
+        - {x: -25.5, y: 40}
+        - {x: -36.5, y: 13}
+        - {x: -36.5, y: -40}
+        - {x: 16.5, y: -40}
+        - {x: 21.5, y: -37}
+        - {x: 43.5, y: -20}
+        - {x: 43.5, y: 5}
+      - - {x: 22.5, y: -40}
+        - {x: 32.5, y: -40}
+        - {x: 43.5, y: -31}
+        - {x: 43.5, y: -23}
+        - {x: 41.5, y: -23}
+        - {x: 22.5, y: -35}
+      - - {x: -43.5, y: -24}
+        - {x: -43.5, y: -33}
+        - {x: -40.5, y: -32}
+        - {x: -36.5, y: -21}
+        - {x: -38.5, y: -19}
+        - {x: -41.5, y: -20}
+      - - {x: -38.5, y: 2}
+        - {x: -36.5, y: 0}
+        - {x: -33.5, y: 1}
+        - {x: -33.5, y: 19}
+        - {x: -35.5, y: 21}
+        - {x: -38.5, y: 20}
+      - - {x: 34.5, y: 24}
+        - {x: 33.5, y: 21}
+        - {x: 42.5, y: 11}
+        - {x: 43.5, y: 11}
+        - {x: 43.5, y: 17}
+        - {x: 36.5, y: 24}
+      - - {x: -28.5, y: 40}
+        - {x: -34.5, y: 35}
+        - {x: -37.5, y: 25}
+        - {x: -37.5, y: 22}
+        - {x: -35.5, y: 21}
+        - {x: -32.5, y: 22}
+        - {x: -22.5, y: 39}
+        - {x: -22.5, y: 40}
+      - - {x: 32.5, y: 23}
+        - {x: 35.5, y: 24}
+        - {x: 35.5, y: 27}
+        - {x: 32.5, y: 28}
+        - {x: 30.5, y: 26}
+      - - {x: 25.5, y: 32}
+        - {x: 28.5, y: 34}
+        - {x: 25.5, y: 40}
+        - {x: 19.5, y: 40}
+        - {x: 19.5, y: 39}
+    - name: bats_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 544
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -31.5}
+        - {x: -13, y: -33.5}
+        - {x: -8, y: -33.5}
+        - {x: -8, y: -32.5}
+        - {x: -12, y: -28.5}
+        - {x: -14, y: -28.5}
+      - - {x: -54, y: -1.5}
+        - {x: -19, y: -33.5}
+        - {x: 54, y: -33.5}
+        - {x: 54, y: 9.5}
+        - {x: 41, y: 33.5}
+        - {x: -44, y: 33.5}
+        - {x: -54, y: 27.5}
+      - - {x: -53, y: -2.5}
+        - {x: -54, y: -2.5}
+        - {x: -54, y: -8.5}
+        - {x: -22, y: -26.5}
+        - {x: -19, y: -24.5}
+        - {x: -20, y: -21.5}
+        - {x: -24, y: -18.5}
+        - {x: -43, y: -5.5}
+      - - {x: 25, y: 33.5}
+        - {x: 25, y: 23.5}
+        - {x: 52, y: 2.5}
+        - {x: 54, y: 2.5}
+        - {x: 54, y: 16.5}
+        - {x: 52, y: 20.5}
+        - {x: 35, y: 33.5}
+      - - {x: -54, y: 25.5}
+        - {x: -54, y: 19.5}
+        - {x: -52, y: 19.5}
+        - {x: -35, y: 23.5}
+        - {x: -29, y: 27.5}
+        - {x: -29, y: 31.5}
+        - {x: -43, y: 31.5}
+        - {x: -50, y: 30.5}
+      - - {x: -23, y: 29.5}
+        - {x: -18, y: 31.5}
+        - {x: -18, y: 33.5}
+        - {x: -24, y: 33.5}
+        - {x: -25, y: 32.5}
+    - name: bats_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 527
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -36}
+        - {x: -34, y: -39}
+        - {x: -35, y: -42}
+        - {x: -35, y: -43}
+        - {x: -13, y: -43}
+        - {x: -6, y: -40}
+        - {x: -6, y: -37}
+        - {x: -8, y: -36}
+      - - {x: 5, y: -36}
+        - {x: 6, y: -39}
+        - {x: 23, y: -39}
+        - {x: 49, y: -28}
+        - {x: 49, y: -21}
+        - {x: 47, y: -21}
+        - {x: 7, y: -34}
+      - - {x: -31, y: 42}
+        - {x: -49, y: -6}
+        - {x: -49, y: -36}
+        - {x: 21, y: -36}
+        - {x: 49, y: -24}
+        - {x: 49, y: 9}
+        - {x: 36, y: 42}
+      - - {x: -39, y: -7}
+        - {x: -41, y: -7}
+        - {x: -49, y: -13}
+        - {x: -49, y: -19}
+        - {x: -46, y: -19}
+        - {x: -37, y: -11}
+        - {x: -37, y: -8}
+      - - {x: -29, y: 7}
+        - {x: -31, y: 4}
+        - {x: -33, y: -1}
+        - {x: -31, y: -3}
+        - {x: -29, y: -3}
+        - {x: -24, y: 5}
+        - {x: -24, y: 7}
+        - {x: -26, y: 8}
+      - - {x: 18, y: 43}
+        - {x: 19, y: 40}
+        - {x: 48, y: 13}
+        - {x: 49, y: 13}
+        - {x: 49, y: 22}
+        - {x: 47, y: 29}
+        - {x: 28, y: 43}
+      - - {x: -30, y: 43}
+        - {x: -30, y: 32}
+        - {x: -28, y: 16}
+        - {x: -26, y: 14}
+        - {x: -23, y: 15}
+        - {x: -23, y: 43}
+    - name: bats_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 556
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 19}
+        - {x: -33.5, y: 15}
+        - {x: -33.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 24.5, y: -25}
+        - {x: 24.5, y: 3}
+        - {x: 10.5, y: 19}
+      - - {x: 13.5, y: 28}
+        - {x: -33.5, y: 28}
+        - {x: -33.5, y: 20}
+        - {x: 27.5, y: -28}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: 10}
+        - {x: 32.5, y: 16}
+    - name: bats_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 573
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 556
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 18.5}
+        - {x: -31.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 22.5, y: 8.5}
+        - {x: 3.5, y: 18.5}
+      - - {x: -31.5, y: 27.5}
+        - {x: -31.5, y: 15.5}
+        - {x: 25.5, y: -27.5}
+        - {x: 31.5, y: -27.5}
+        - {x: 31.5, y: 6.5}
+        - {x: 15.5, y: 27.5}
+    - name: bats_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 568
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 568
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 554
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 570
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_24
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 532
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 38}
+        - {x: -22.5, y: -36}
+        - {x: -19.5, y: -38}
+        - {x: -0.5, y: -38}
+        - {x: 22.5, y: -23}
+        - {x: 22.5, y: 38}
+      - - {x: 12.5, y: -31}
+        - {x: 13.5, y: -34}
+        - {x: 21.5, y: -38}
+        - {x: 22.5, y: -38}
+        - {x: 22.5, y: -32}
+        - {x: 14.5, y: -29}
+      - - {x: 22.5, y: 25}
+        - {x: 19.5, y: 26}
+        - {x: 8.5, y: 26}
+        - {x: -14.5, y: -5}
+        - {x: -14.5, y: -29}
+        - {x: -11.5, y: -31}
+        - {x: -6.5, y: -31}
+        - {x: -4.5, y: -29}
+        - {x: 17.5, y: -15}
+        - {x: 22.5, y: -10}
+    - name: bats_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 541
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -28}
+        - {x: 46, y: -17}
+        - {x: 46, y: 14}
+        - {x: 32, y: 30}
+        - {x: -26, y: 30}
+        - {x: -46, y: 6}
+        - {x: -46, y: -30}
+        - {x: -38, y: -30}
+        - {x: -31, y: -18}
+        - {x: -18, y: -30}
+        - {x: 15, y: -30}
+      - - {x: 29, y: -28}
+        - {x: 29, y: -30}
+        - {x: 43, y: -30}
+        - {x: 46, y: -27}
+        - {x: 46, y: -21}
+        - {x: 35, y: -24}
+      - - {x: -46, y: 14}
+        - {x: -46, y: 6}
+        - {x: -44, y: 6}
+        - {x: -23, y: 22}
+        - {x: -23, y: 30}
+        - {x: -30, y: 30}
+        - {x: -39, y: 23}
+      - - {x: 39, y: 30}
+        - {x: 39, y: 29}
+        - {x: 44, y: 22}
+        - {x: 46, y: 22}
+        - {x: 46, y: 28}
+        - {x: 44, y: 30}
+    - name: bats_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 523
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 38.5}
+        - {x: -25, y: 38.5}
+        - {x: -31, y: 36.5}
+        - {x: -31, y: -38.5}
+        - {x: -6, y: -38.5}
+        - {x: 24, y: -29.5}
+        - {x: 31, y: -8.5}
+        - {x: 31, y: 30.5}
+      - - {x: 29, y: -15.5}
+        - {x: 3, y: -32.5}
+        - {x: 3, y: -38.5}
+        - {x: 12, y: -38.5}
+        - {x: 18, y: -35.5}
+        - {x: 31, y: -22.5}
+        - {x: 31, y: -15.5}
+      - - {x: 25, y: 38.5}
+        - {x: 25, y: 37.5}
+        - {x: 29, y: 31.5}
+        - {x: 31, y: 31.5}
+        - {x: 31, y: 38.5}
+    - name: bats_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 546
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 556
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 539
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 525
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 541
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 527
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 534
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 535
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_35
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 542
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_36
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 515
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_37
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 512
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 21.5}
+        - {x: 24, y: 14.5}
+        - {x: -33, y: -18.5}
+        - {x: -33, y: -21.5}
+        - {x: -16, y: -21.5}
+        - {x: 2, y: -17.5}
+        - {x: 33, y: 12.5}
+        - {x: 33, y: 21.5}
+      - - {x: -33, y: 21.5}
+        - {x: -33, y: -12.5}
+        - {x: -26, y: -12.5}
+        - {x: 2, y: -1.5}
+        - {x: 23, y: 18.5}
+        - {x: 23, y: 21.5}
+    - name: bats_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 533
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 534
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_40
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 533
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_41
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 533
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 405
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 47}
+        - {x: -24.5, y: 44}
+        - {x: -59.5, y: 1}
+        - {x: -59.5, y: -30}
+        - {x: -52.5, y: -44}
+        - {x: -40.5, y: -47}
+        - {x: 29.5, y: -47}
+        - {x: 59.5, y: -36}
+        - {x: 59.5, y: 11}
+        - {x: 27.5, y: 47}
+    - name: bats_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 399
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 51}
+        - {x: -40, y: 51}
+        - {x: -49, y: 4}
+        - {x: -49, y: -51}
+        - {x: 7, y: -51}
+        - {x: 31, y: -47}
+        - {x: 48, y: -23}
+        - {x: 49, y: -17}
+        - {x: 49, y: 9}
+    - name: bats_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -6}
+        - {x: -29, y: -43}
+        - {x: 51, y: -43}
+        - {x: 64, y: -37}
+        - {x: 64, y: 7}
+        - {x: 56, y: 24}
+        - {x: 36, y: 43}
+        - {x: -35, y: 43}
+        - {x: -64, y: 31}
+    - name: bats_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 397
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 48}
+        - {x: -23.5, y: 48}
+        - {x: -32.5, y: 37}
+        - {x: -59.5, y: -23}
+        - {x: -59.5, y: -48}
+        - {x: 13.5, y: -48}
+        - {x: 59.5, y: -36}
+        - {x: 59.5, y: 3}
+        - {x: 48.5, y: 28}
+    - name: bats_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 404
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 40}
+        - {x: -56.5, y: 15}
+        - {x: -56.5, y: -38}
+        - {x: -55.5, y: -40}
+        - {x: 39.5, y: -40}
+        - {x: 56.5, y: -31}
+        - {x: 56.5, y: 20}
+        - {x: 45.5, y: 40}
+    - name: bats_47
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 384
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 49.5}
+        - {x: -41.5, y: -46.5}
+        - {x: -40.5, y: -49.5}
+        - {x: 1.5, y: -49.5}
+        - {x: 41.5, y: -22.5}
+        - {x: 41.5, y: 43.5}
+        - {x: 36.5, y: 49.5}
+    - name: bats_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 288
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -29}
+        - {x: -48.5, y: -30}
+        - {x: -48.5, y: -36}
+        - {x: -14.5, y: -36}
+        - {x: -14.5, y: -34}
+        - {x: -21.5, y: -29}
+      - - {x: -12.5, y: 36}
+        - {x: -48.5, y: 16}
+        - {x: -48.5, y: -36}
+        - {x: 35.5, y: -36}
+        - {x: 48.5, y: -15}
+        - {x: 48.5, y: 14}
+        - {x: 29.5, y: 36}
+      - - {x: 32.5, y: -35}
+        - {x: 32.5, y: -36}
+        - {x: 38.5, y: -36}
+        - {x: 48.5, y: -27}
+        - {x: 48.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 35.5, y: -26}
+      - - {x: -39.5, y: 18}
+        - {x: -48.5, y: 9}
+        - {x: -48.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -36.5, y: 14}
+        - {x: -36.5, y: 17}
+      - - {x: 21.5, y: 36}
+        - {x: 21.5, y: 35}
+        - {x: 47.5, y: 9}
+        - {x: 48.5, y: 9}
+        - {x: 48.5, y: 17}
+        - {x: 29.5, y: 36}
+      - - {x: -30.5, y: 24}
+        - {x: -26.5, y: 24}
+        - {x: -15.5, y: 32}
+        - {x: -15.5, y: 36}
+        - {x: -24.5, y: 36}
+        - {x: -30.5, y: 28}
+    - name: bats_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 277
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 47}
+        - {x: -44, y: 35}
+        - {x: -44, y: -41}
+        - {x: -26, y: -47}
+        - {x: 24, y: -47}
+        - {x: 44, y: -35}
+        - {x: 44, y: 14}
+        - {x: 31, y: 47}
+      - - {x: -23, y: 38}
+        - {x: -44, y: 21}
+        - {x: -44, y: -24}
+        - {x: -29, y: -38}
+        - {x: 10, y: -38}
+        - {x: 35, y: -27}
+        - {x: 35, y: 3}
+        - {x: -2, y: 38}
+    - name: bats_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 343
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 282
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40}
+        - {x: -39, y: 2}
+        - {x: -39, y: -40}
+        - {x: 14, y: -40}
+        - {x: 30, y: -37}
+        - {x: 39, y: -22}
+        - {x: 39, y: 16}
+        - {x: 8, y: 40}
+      - - {x: 37, y: -22}
+        - {x: 17, y: -38}
+        - {x: 17, y: -40}
+        - {x: 28, y: -40}
+        - {x: 39, y: -30}
+        - {x: 39, y: -22}
+      - - {x: 15, y: 40}
+        - {x: 15, y: 39}
+        - {x: 18, y: 30}
+        - {x: 37, y: 11}
+        - {x: 39, y: 11}
+        - {x: 39, y: 18}
+        - {x: 21, y: 40}
+      - - {x: -32, y: 40}
+        - {x: -38, y: 35}
+        - {x: -39, y: 32}
+        - {x: -39, y: 23}
+        - {x: -36, y: 24}
+        - {x: -26, y: 39}
+        - {x: -26, y: 40}
+    - name: bats_52
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 309
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -27.5}
+        - {x: 33, y: -27.5}
+        - {x: 33, y: -24.5}
+        - {x: 24, y: -2.5}
+        - {x: 3, y: 18.5}
+        - {x: -36, y: 18.5}
+        - {x: -41, y: 15.5}
+      - - {x: -1, y: 27.5}
+        - {x: -35, y: 27.5}
+        - {x: -41, y: 22.5}
+        - {x: -41, y: 16.5}
+        - {x: 37, y: -27.5}
+        - {x: 41, y: -27.5}
+        - {x: 41, y: -14.5}
+        - {x: 40, y: -12.5}
+        - {x: 28, y: 3.5}
+        - {x: 9, y: 25.5}
+    - name: bats_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 358
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_54
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 332
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 7.5}
+        - {x: -28, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: -14.5}
+        - {x: 3, y: 5.5}
+        - {x: -12, y: 7.5}
+      - - {x: 0, y: 16.5}
+        - {x: -28, y: 16.5}
+        - {x: -28, y: 10.5}
+        - {x: 24, y: -16.5}
+        - {x: 28, y: -16.5}
+        - {x: 28, y: -8.5}
+        - {x: 17, y: 12.5}
+    - name: bats_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 301
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 271
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 37.5}
+        - {x: -49, y: 32.5}
+        - {x: -49, y: -37.5}
+        - {x: 33, y: -37.5}
+        - {x: 49, y: -7.5}
+        - {x: 49, y: 28.5}
+        - {x: 38, y: 37.5}
+      - - {x: 18, y: 37.5}
+        - {x: -30, y: 37.5}
+        - {x: -31, y: 36.5}
+        - {x: -32, y: 33.5}
+        - {x: -41, y: -9.5}
+        - {x: -41, y: -28.5}
+        - {x: -5, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 34, y: -10.5}
+        - {x: 41, y: 5.5}
+        - {x: 41, y: 18.5}
+      - - {x: -42, y: 37.5}
+        - {x: -43, y: 32.5}
+        - {x: -43, y: 15.5}
+        - {x: -41, y: 13.5}
+        - {x: -38, y: 14.5}
+        - {x: -37, y: 34.5}
+        - {x: -37, y: 37.5}
+    - name: bats_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 314
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 288
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -31.5}
+        - {x: -13.5, y: -33.5}
+        - {x: -8.5, y: -33.5}
+        - {x: -8.5, y: -32.5}
+        - {x: -12.5, y: -28.5}
+        - {x: -14.5, y: -28.5}
+      - - {x: -38.5, y: 33.5}
+        - {x: -54.5, y: 18.5}
+        - {x: -54.5, y: 1.5}
+        - {x: -6.5, y: -33.5}
+        - {x: 31.5, y: -33.5}
+        - {x: 54.5, y: -27.5}
+        - {x: 54.5, y: 17.5}
+        - {x: 23.5, y: 33.5}
+      - - {x: 50.5, y: -32.5}
+        - {x: 50.5, y: -33.5}
+        - {x: 54.5, y: -33.5}
+        - {x: 54.5, y: -29.5}
+        - {x: 53.5, y: -29.5}
+      - - {x: -23.5, y: -26.5}
+        - {x: -21.5, y: -26.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -19.5, y: -22.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -50.5, y: -2.5}
+        - {x: -54.5, y: -2.5}
+        - {x: -54.5, y: -8.5}
+      - - {x: 24.5, y: 33.5}
+        - {x: 25.5, y: 30.5}
+        - {x: 53.5, y: 1.5}
+        - {x: 54.5, y: 1.5}
+        - {x: 54.5, y: 13.5}
+        - {x: 37.5, y: 33.5}
+      - - {x: -54.5, y: 25.5}
+        - {x: -54.5, y: 19.5}
+        - {x: -52.5, y: 19.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -29.5, y: 27.5}
+        - {x: -29.5, y: 31.5}
+        - {x: -43.5, y: 31.5}
+        - {x: -50.5, y: 30.5}
+      - - {x: -23.5, y: 29.5}
+        - {x: -18.5, y: 31.5}
+        - {x: -18.5, y: 33.5}
+        - {x: -24.5, y: 33.5}
+        - {x: -25.5, y: 32.5}
+    - name: bats_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 283
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 269
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 280
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 38.5}
+        - {x: -48.5, y: -23.5}
+        - {x: -48.5, y: -38.5}
+        - {x: 33.5, y: -38.5}
+        - {x: 48.5, y: -21.5}
+        - {x: 48.5, y: 11.5}
+        - {x: 15.5, y: 38.5}
+      - - {x: 19.5, y: -35.5}
+        - {x: 19.5, y: -38.5}
+        - {x: 34.5, y: -38.5}
+        - {x: 43.5, y: -36.5}
+        - {x: 48.5, y: -30.5}
+        - {x: 48.5, y: -25.5}
+        - {x: 46.5, y: -25.5}
+        - {x: 27.5, y: -30.5}
+      - - {x: -41.5, y: -11.5}
+        - {x: -48.5, y: -16.5}
+        - {x: -48.5, y: -23.5}
+        - {x: -46.5, y: -23.5}
+        - {x: -39.5, y: -20.5}
+        - {x: -37.5, y: -14.5}
+        - {x: -37.5, y: -12.5}
+        - {x: -39.5, y: -11.5}
+      - - {x: -29.5, y: 2.5}
+        - {x: -33.5, y: -5.5}
+        - {x: -33.5, y: -6.5}
+        - {x: -31.5, y: -7.5}
+        - {x: -27.5, y: -6.5}
+        - {x: -24.5, y: 0.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -26.5, y: 3.5}
+      - - {x: 17.5, y: 38.5}
+        - {x: 18.5, y: 35.5}
+        - {x: 46.5, y: 8.5}
+        - {x: 48.5, y: 8.5}
+        - {x: 48.5, y: 16.5}
+        - {x: 46.5, y: 24.5}
+        - {x: 30.5, y: 35.5}
+        - {x: 25.5, y: 38.5}
+      - - {x: -30.5, y: 38.5}
+        - {x: -30.5, y: 27.5}
+        - {x: -28.5, y: 11.5}
+        - {x: -26.5, y: 9.5}
+        - {x: -23.5, y: 10.5}
+        - {x: -23.5, y: 38.5}
+    - name: bats_62
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 285
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_63
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 311
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_64
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 276
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 4}
+        - {x: -22.5, y: -37}
+        - {x: -21.5, y: -38}
+        - {x: 22.5, y: -38}
+        - {x: 22.5, y: 38}
+        - {x: 8.5, y: 38}
+        - {x: -20.5, y: 13}
+      - - {x: 6.5, y: 25}
+        - {x: -13.5, y: 1}
+        - {x: -13.5, y: -31}
+        - {x: 6.5, y: -31}
+        - {x: 22.5, y: -21}
+        - {x: 22.5, y: 25}
+    - name: bats_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 285
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 30}
+        - {x: -26.5, y: 30}
+        - {x: -45.5, y: -4}
+        - {x: -45.5, y: -30}
+        - {x: 7.5, y: -30}
+        - {x: 43.5, y: -23}
+        - {x: 45.5, y: -17}
+        - {x: 45.5, y: 20}
+      - - {x: 28.5, y: -28}
+        - {x: 28.5, y: -30}
+        - {x: 42.5, y: -30}
+        - {x: 45.5, y: -27}
+        - {x: 45.5, y: -21}
+        - {x: 34.5, y: -24}
+      - - {x: -30.5, y: 30}
+        - {x: -39.5, y: 23}
+        - {x: -44.5, y: 16}
+        - {x: -45.5, y: 15}
+        - {x: -45.5, y: 8}
+        - {x: -42.5, y: 8}
+        - {x: -23.5, y: 27}
+        - {x: -23.5, y: 30}
+      - - {x: 38.5, y: 30}
+        - {x: 38.5, y: 29}
+        - {x: 43.5, y: 22}
+        - {x: 45.5, y: 22}
+        - {x: 45.5, y: 28}
+        - {x: 43.5, y: 30}
+    - name: bats_66
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 300
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 19}
+        - {x: -33.5, y: 15}
+        - {x: -33.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 24.5, y: -25}
+        - {x: 24.5, y: 3}
+        - {x: 10.5, y: 19}
+      - - {x: 13.5, y: 28}
+        - {x: -33.5, y: 28}
+        - {x: -33.5, y: 21}
+        - {x: 27.5, y: -28}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: 10}
+        - {x: 32.5, y: 16}
+    - name: bats_67
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 321
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -27.5, y: 7}
+        - {x: -27.5, y: -17}
+        - {x: -22.5, y: -17}
+        - {x: 27.5, y: 12}
+        - {x: 27.5, y: 17}
+      - - {x: -14.5, y: 8}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -17}
+        - {x: 27.5, y: -17}
+        - {x: 27.5, y: 8}
+    - name: bats_68
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 267
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 38.5}
+        - {x: -31, y: -38.5}
+        - {x: 1, y: -38.5}
+        - {x: 4, y: -37.5}
+        - {x: 31, y: -13.5}
+        - {x: 31, y: 25.5}
+        - {x: 26, y: 38.5}
+      - - {x: 3, y: -37.5}
+        - {x: 3, y: -38.5}
+        - {x: 15, y: -38.5}
+        - {x: 19, y: -37.5}
+        - {x: 31, y: -20.5}
+        - {x: 31, y: -14.5}
+        - {x: 30, y: -14.5}
+      - - {x: 24, y: 38.5}
+        - {x: 24, y: 37.5}
+        - {x: 29, y: 30.5}
+        - {x: 31, y: 30.5}
+        - {x: 31, y: 37.5}
+        - {x: 30, y: 38.5}
+    - name: bats_69
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 302
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 290
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 279
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 286
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_73
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 259
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_74
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 263
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 16}
+        - {x: 13, y: 12}
+        - {x: -20, y: -13}
+        - {x: -20, y: -16}
+        - {x: -6, y: -16}
+        - {x: 20, y: 8}
+        - {x: 20, y: 16}
+      - - {x: -20, y: 16}
+        - {x: -20, y: -6}
+        - {x: -17, y: -6}
+        - {x: -9, y: -2}
+        - {x: 8, y: 14}
+        - {x: 8, y: 16}
+    - name: bats_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 278
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 277
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_77
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 277
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 271
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_79
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 256
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bats_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 149
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47}
+        - {x: -58.5, y: 11}
+        - {x: -59.5, y: 7}
+        - {x: -59.5, y: -33}
+        - {x: -32.5, y: -47}
+        - {x: 35.5, y: -47}
+        - {x: 59.5, y: -37}
+        - {x: 59.5, y: 16}
+        - {x: 19.5, y: 47}
+    - name: bats_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 143
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 51}
+        - {x: -40, y: 51}
+        - {x: -49, y: 4}
+        - {x: -49, y: -51}
+        - {x: 7, y: -51}
+        - {x: 31, y: -47}
+        - {x: 48, y: -23}
+        - {x: 49, y: -17}
+        - {x: 49, y: 9}
+    - name: bats_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 43}
+        - {x: -64, y: 24}
+        - {x: -64, y: -32}
+        - {x: -26, y: -43}
+        - {x: 64, y: -43}
+        - {x: 64, y: 22}
+        - {x: 37, y: 43}
+    - name: bats_83
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 141
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 48}
+        - {x: -23.5, y: 48}
+        - {x: -32.5, y: 37}
+        - {x: -59.5, y: -23}
+        - {x: -59.5, y: -48}
+        - {x: 13.5, y: -48}
+        - {x: 59.5, y: -36}
+        - {x: 59.5, y: 3}
+        - {x: 48.5, y: 28}
+    - name: bats_84
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 148
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 40}
+        - {x: -56.5, y: 30}
+        - {x: -56.5, y: -40}
+        - {x: 23.5, y: -40}
+        - {x: 56.5, y: -36}
+        - {x: 56.5, y: 22}
+        - {x: 42.5, y: 40}
+    - name: bats_85
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 128
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 49.5}
+        - {x: -41.5, y: -46.5}
+        - {x: -40.5, y: -49.5}
+        - {x: 1.5, y: -49.5}
+        - {x: 41.5, y: -22.5}
+        - {x: 41.5, y: 43.5}
+        - {x: 36.5, y: 49.5}
+    - name: bats_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47}
+        - {x: -58.5, y: 11}
+        - {x: -59.5, y: 7}
+        - {x: -59.5, y: -33}
+        - {x: -32.5, y: -47}
+        - {x: 35.5, y: -47}
+        - {x: 59.5, y: -37}
+        - {x: 59.5, y: 16}
+        - {x: 19.5, y: 47}
+    - name: bats_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 51}
+        - {x: -40, y: 51}
+        - {x: -49, y: 4}
+        - {x: -49, y: -51}
+        - {x: 7, y: -51}
+        - {x: 31, y: -47}
+        - {x: 48, y: -23}
+        - {x: 49, y: -17}
+        - {x: 49, y: 9}
+    - name: bats_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 22
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -6}
+        - {x: -29, y: -43}
+        - {x: 51, y: -43}
+        - {x: 64, y: -37}
+        - {x: 64, y: 7}
+        - {x: 56, y: 24}
+        - {x: 36, y: 43}
+        - {x: -35, y: 43}
+        - {x: -64, y: 31}
+    - name: bats_89
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 13
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 48}
+        - {x: -23.5, y: 48}
+        - {x: -32.5, y: 37}
+        - {x: -59.5, y: -23}
+        - {x: -59.5, y: -48}
+        - {x: 13.5, y: -48}
+        - {x: 59.5, y: -36}
+        - {x: 59.5, y: 3}
+        - {x: 48.5, y: 28}
+    - name: bats_90
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 40}
+        - {x: -56.5, y: 30}
+        - {x: -56.5, y: -40}
+        - {x: 23.5, y: -40}
+        - {x: 56.5, y: -36}
+        - {x: 56.5, y: 22}
+        - {x: 42.5, y: 40}
+    - name: bats_91
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 49.5}
+        - {x: -41.5, y: -46.5}
+        - {x: -40.5, y: -49.5}
+        - {x: 1.5, y: -49.5}
+        - {x: 41.5, y: -22.5}
+        - {x: 41.5, y: 43.5}
+        - {x: 36.5, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

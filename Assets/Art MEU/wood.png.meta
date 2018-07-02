@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 7b4e12d0e9eb54aeb9c988bd1f03c8fd
+timeCreated: 1466869212
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wood_0
+    21300002: wood_1
+    21300004: wood_2
+    21300006: wood_3
+    21300008: wood_4
+    21300010: wood_5
+    21300012: wood_6
+    21300014: wood_7
+    21300016: wood_8
+    21300018: wood_9
+    21300020: wood_10
+    21300022: wood_11
+    21300024: wood_12
+    21300026: wood_13
+    21300028: wood_14
+    21300030: wood_15
+    21300032: wood_16
+    21300034: wood_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: wood_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 306
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 41.5}
+        - {x: -42, y: -24.5}
+        - {x: -42, y: -41.5}
+        - {x: 42, y: -41.5}
+        - {x: 42, y: -23.5}
+        - {x: 7, y: 41.5}
+    - name: wood_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 308
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 40, y: -33.5}
+        - {x: -34, y: 40.5}
+    - name: wood_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 253
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.5, y: 11.5}
+        - {x: 126.5, y: 91.5}
+        - {x: 125.5, y: 97.5}
+        - {x: 50.5, y: 171.5}
+        - {x: 40.5, y: 171.5}
+        - {x: 40.5, y: 99.5}
+        - {x: -31.5, y: 171.5}
+        - {x: -41.5, y: 171.5}
+        - {x: -41.5, y: 97.5}
+        - {x: -115.5, y: 171.5}
+        - {x: -122.5, y: 171.5}
+        - {x: -123.5, y: 170.5}
+        - {x: -126.5, y: 126.5}
+        - {x: -126.5, y: -28.5}
+        - {x: -122.5, y: -34.5}
+        - {x: -126.5, y: -43.5}
+        - {x: -126.5, y: -72.5}
+        - {x: -119.5, y: -79.5}
+        - {x: -105.5, y: -86.5}
+        - {x: -91.5, y: -86.5}
+        - {x: -86.5, y: -166.5}
+        - {x: -83.5, y: -171.5}
+        - {x: 126.5, y: -171.5}
+        - {x: 126.5, y: -62.5}
+        - {x: 122.5, y: 2.5}
+    - name: wood_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 309
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 40.5}
+        - {x: -40, y: 40.5}
+        - {x: -40, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 40, y: -31.5}
+        - {x: 0, y: 7.5}
+    - name: wood_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 309
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 40.5}
+        - {x: -40, y: 40.5}
+        - {x: -40, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 40, y: -31.5}
+        - {x: 0, y: 7.5}
+    - name: wood_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 222
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 41.5}
+        - {x: -42, y: -24.5}
+        - {x: -42, y: -41.5}
+        - {x: 42, y: -41.5}
+        - {x: 42, y: -23.5}
+        - {x: 7, y: 41.5}
+    - name: wood_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 232
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 37.5}
+        - {x: -22, y: 37.5}
+        - {x: -37, y: 22.5}
+        - {x: -38, y: 16.5}
+        - {x: -38, y: -20.5}
+        - {x: -24, y: -37.5}
+        - {x: 22, y: -37.5}
+        - {x: 36, y: -26.5}
+        - {x: 38, y: -16.5}
+        - {x: 38, y: 23.5}
+    - name: wood_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 223
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42.5}
+        - {x: -42, y: -42.5}
+        - {x: 39, y: -42.5}
+        - {x: 42, y: -38.5}
+        - {x: 42, y: 42.5}
+    - name: wood_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 41.5}
+        - {x: -42, y: -22.5}
+        - {x: -42, y: -41.5}
+        - {x: 42, y: -41.5}
+        - {x: 42, y: -22.5}
+        - {x: 6, y: 41.5}
+    - name: wood_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 155
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 37.5}
+        - {x: -22, y: 37.5}
+        - {x: -37, y: 22.5}
+        - {x: -38, y: 16.5}
+        - {x: -38, y: -20.5}
+        - {x: -24, y: -37.5}
+        - {x: 22, y: -37.5}
+        - {x: 36, y: -26.5}
+        - {x: 38, y: -16.5}
+        - {x: 38, y: 23.5}
+    - name: wood_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 63.5}
+        - {x: -41.5, y: 24.5}
+        - {x: -41.5, y: -63.5}
+        - {x: 24.5, y: -63.5}
+        - {x: 41.5, y: -22.5}
+        - {x: 41.5, y: -1.5}
+        - {x: 4.5, y: 63.5}
+    - name: wood_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 78
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37.5}
+        - {x: -38, y: 20.5}
+        - {x: -38, y: -29.5}
+        - {x: -32, y: -37.5}
+        - {x: 38, y: -37.5}
+        - {x: 38, y: 25.5}
+        - {x: 26, y: 37.5}
+    - name: wood_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37.5}
+        - {x: -38, y: 20.5}
+        - {x: -38, y: -26.5}
+        - {x: -28, y: -37.5}
+        - {x: 33, y: -37.5}
+        - {x: 38, y: -24.5}
+        - {x: 38, y: 27.5}
+        - {x: 25, y: 37.5}
+    - name: wood_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 22}
+        - {x: -42, y: -22}
+        - {x: 42, y: -22}
+        - {x: 42, y: 22}
+    - name: wood_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 22}
+        - {x: -41.5, y: -22}
+        - {x: 41.5, y: -22}
+        - {x: 41.5, y: 22}
+    - name: wood_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 41}
+        - {x: 41, y: 42}
+    - name: wood_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -41}
+        - {x: -40, y: -42}
+        - {x: 40, y: -42}
+        - {x: 42, y: -39}
+        - {x: 42, y: 42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
